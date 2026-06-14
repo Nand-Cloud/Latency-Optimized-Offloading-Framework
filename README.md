@@ -1,4 +1,4 @@
-# Hierarchical Deep Reinforcement Learning for Multi-Objective Adaptive Task Offloading (Edge–Fog–Cloud)
+# Deep Reinforcement Learning-Based Adaptive Task Offloading in Edge – Fog – Cloud Environments for Latency Optimization
 
 This repository implements a simulation + DRL training pipeline for benchmarking a hierarchical multi-objective Double-DQN offloading agent against multiple baselines. It produces CSV tables and publication-quality figures.
 
