@@ -1,0 +1,9 @@
+agent,edge_pct,fog_pct,cloud_pct
+Proposed-HierDDQN,0.0,100.0,0.0
+Cloud-Only,0.0,0.0,100.0
+Rule-Based,73.89,26.11,0.0
+Tabular-Q,47.78,31.11,21.11
+Flat-DQN,0.0,100.0,0.0
+Flat-DoubleDQN,0.0,100.0,0.0
+A3C,50.0,0.0,50.0
+PPO,0.0,100.0,0.0

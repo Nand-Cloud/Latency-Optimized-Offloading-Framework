@@ -1,0 +1,8 @@
+comparison,latency_mean_diff_ms,latency_t_pvalue,latency_wilcoxon_pvalue,energy_mean_diff_j,energy_t_pvalue,energy_wilcoxon_pvalue,n_seeds
+Proposed-HierDDQN vs Cloud-Only,-1.469,0.661394,1.0,-5.9301,0.050468,0.5,2
+Proposed-HierDDQN vs Rule-Based,-140.144,0.091572,0.5,0.2697,0.214888,0.5,2
+Proposed-HierDDQN vs Tabular-Q,-19.645,0.216015,0.5,-1.8139,0.127364,0.5,2
+Proposed-HierDDQN vs Flat-DQN,9.965,0.032334,0.5,-0.6486,0.140901,0.5,2
+Proposed-HierDDQN vs Flat-DoubleDQN,9.965,0.032334,0.5,-0.6486,0.140901,0.5,2
+Proposed-HierDDQN vs A3C,-196.779,0.493519,0.5,-2.8671,0.566098,1.0,2
+Proposed-HierDDQN vs PPO,9.965,0.032334,0.5,-0.6486,0.140901,0.5,2
